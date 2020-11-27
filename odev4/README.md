@@ -1,3 +1,3 @@
-# ANDROID UYGULAMA GELÝÞTÝRME Ödev 4
+# ANDROID UYGULAMA GELÄ°ÅžTÄ°RME Ã–dev 4
 
-## Þehiler hakkýnda bilgi
+## Åžehirler hakkÄ±nda bilgi
