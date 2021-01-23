@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_news"
+        android:title="Haberler"
+        android:icon="@drawable/ic_news" />
+
+    <item android:id="@+id/nav_saves"
+        android:title="Kaydedilenler"
+        android:icon="@drawable/ic_saves" />
+
+    <item android:id="@+id/nav_readlater"
+        android:title="Daha Sonra Oku"
+        android:icon="@drawable/ic_readlater" />
+</menu>
